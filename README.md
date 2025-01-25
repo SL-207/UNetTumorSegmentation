@@ -10,7 +10,7 @@
 Cheng, Jun (2017). brain tumor dataset. figshare. Dataset. [https://doi.org/10.6084/m9.figshare](url)
 
 ### Model Architecture
-![image](https://github.com/user-attachments/assets/8a946122-c6e0-478d-a099-0a60813abc18){: style="width:300px;"}
+![image](https://github.com/user-attachments/assets/8a946122-c6e0-478d-a099-0a60813abc18)
 
 ### Results
 **Test Evaluation**
